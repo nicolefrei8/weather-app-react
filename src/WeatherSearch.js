@@ -70,11 +70,11 @@ export default function Weather() {
           </div>
           <small className="github">
             <a
-              href="https://github.com/nicolefrei8/Strawberry-Weather-App"
+              href="https://github.com/nicolefrei8/weather-app-react"
               target="_blank "
               rel="noreferrer"
             >
-              Open-source code{" "}
+              Open-source code
             </a>
             by Nicole Frei
           </small>

@@ -74,7 +74,7 @@ export default function Weather() {
               target="_blank "
               rel="noreferrer"
             >
-              Open-source code
+              Open-source code{" "}
             </a>
             by Nicole Frei
           </small>
